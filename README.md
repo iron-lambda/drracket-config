@@ -1,5 +1,7 @@
 # DrRacket Config
 
+[![Language](https://img.shields.io/badge/language-Racket-red)] [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 [English](README.md) | [中文](README.zh-CN.md)
 
 Modern keybindings for DrRacket with REPL integration. Provides Emacs-style incremental evaluation — send expressions and selections directly to the REPL without leaving the editor.
